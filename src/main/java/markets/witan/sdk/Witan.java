@@ -36,7 +36,7 @@ import java.util.StringJoiner;
  */
 public final class Witan {
   /** This library's version, sent in the User-Agent. */
-  public static final String VERSION = "0.1.0";
+  public static final String VERSION = "0.1.1";
   /** The public service. */
   public static final String DEFAULT_BASE_URL = "https://witan.markets";
 
