@@ -28,7 +28,7 @@ Gradle:
 
 ```kotlin
 repositories { maven("https://jitpack.io") }
-dependencies { implementation("com.github.witanmarkets:witan-sdk-java:v0.1.0") }
+dependencies { implementation("com.github.witanmarkets:witan-sdk-java:v0.1.1") }
 ```
 
 Maven:
@@ -38,7 +38,7 @@ Maven:
 <dependency>
   <groupId>com.github.witanmarkets</groupId>
   <artifactId>witan-sdk-java</artifactId>
-  <version>v0.1.0</version>
+  <version>v0.1.1</version>
 </dependency>
 ```
 
@@ -46,7 +46,7 @@ sbt (Scala):
 
 ```scala
 resolvers += "jitpack" at "https://jitpack.io"
-libraryDependencies += "com.github.witanmarkets" % "witan-sdk-java" % "v0.1.0"
+libraryDependencies += "com.github.witanmarkets" % "witan-sdk-java" % "v0.1.1"
 ```
 
 ## Try it in 30 seconds

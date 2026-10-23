@@ -5,7 +5,7 @@
   <!-- served by JitPack from this repository's tags: com.github.witanmarkets:witan-sdk-java:<tag> -->
   <groupId>com.github.witanmarkets</groupId>
   <artifactId>witan-sdk-java</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <name>witan-sdk-java</name>
   <description>Java client for WITAN: search can't find it, agents buy it here. Usable from Scala and Kotlin.</description>
   <url>https://github.com/witanmarkets/witan-sdk-java</url>

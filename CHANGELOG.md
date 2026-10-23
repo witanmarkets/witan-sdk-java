@@ -3,6 +3,12 @@
 Every release of `com.github.witanmarkets:witan-sdk-java`, newest first, grouped the way
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) groups them.
 
+## 0.1.1 — 2026-10-23
+
+### Fixed
+
+- JitPack builds it: `maven-compiler-plugin` is pinned to 3.13.0, because the default one of the Maven that JitPack runs ignores `maven.compiler.release` and compiled for Java 5. No code changed; 0.1.0 never built on JitPack.
+
 ## 0.1.0 — 2026-10-23
 
 ### Added
